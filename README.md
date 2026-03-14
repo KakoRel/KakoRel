@@ -13,8 +13,7 @@
 
 ### 🔹 Frontend & Mobile
 *   **Mobile:** Flutter (Dart) — кроссплатформенная разработка под iOS/Android
-*   **Web:** HTML5, CSS3, JavaScript, React/Vue (базово)
-*   **State Management:** Provider, Riverpod, BLoC
+*   **Web:** HTML5, CSS3, JavaScript, Vue (базово)
 
 ### 🔹 DevOps & Инструменты
 *   **Контейнеризация:** Docker, Docker Compose
